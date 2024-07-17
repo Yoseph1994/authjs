@@ -1,0 +1,2 @@
+Template auth.js
+
